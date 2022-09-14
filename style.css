@@ -1,0 +1,8 @@
+header {
+    min-height: 80px;
+    background: rgba(215, 128, 157, 0.404);
+}
+
+header .container {
+    width: 100%;
+}
